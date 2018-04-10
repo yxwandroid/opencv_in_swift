@@ -10,3 +10,27 @@ If detail instructions are needed, please reference this blog [在 Swift 中使�
 
 # License
 MIT
+
+
+
+
+
+补充 
+
+遇到 error  libswiftAVFoundation.dylib
+![](http://oo0vme8mf.bkt.clouddn.com/15233363005421.jpg)
+
+解决方式  
+clear 项目  然后重启电脑  
+
+需要添加的library
+
+![](http://oo0vme8mf.bkt.clouddn.com/15233363760466.jpg)
+
+
+注意 添加opencv 的library的时候 使用拖拽的方式要选择copy到项目
+
+![](http://oo0vme8mf.bkt.clouddn.com/15233364575867.jpg)
+
+
+
